@@ -1,1 +1,2 @@
 # E-commerce-System
+This project is a Python-based E-commerce System developed using Object-Oriented Programming concepts. It allows customers to enter personal details, browse a list of products, and purchase multiple items with quantity selection. The system manages seller and product information while generating a detailed bill including GST calculation. It demonstrates key OOP principles like encapsulation, class interaction, and real-world application design.
